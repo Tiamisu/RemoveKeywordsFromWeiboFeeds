@@ -1,2 +1,2 @@
 # RemoveKeywordsFromWeiboFeeds
-greasemonkey scripts for m.weibo.com
+greasemonkey scripts for m.weibo.cn
